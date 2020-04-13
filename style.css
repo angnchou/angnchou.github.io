@@ -1,0 +1,21 @@
+body {
+  margin: 8px;
+  padding: 16px;
+  font-family: Helvetica, Arial, sans-serif;
+  /* -webkit-font-smoothing: antialiased; */
+  color: #484848;
+  /* display: flex; */
+  align-content: center;
+}
+
+a,
+a:visited,
+a:hover,
+a:active {
+  color: #484848;
+}
+
+.home a{
+  color: #ebd735;
+}
+
